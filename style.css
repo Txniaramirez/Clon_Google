@@ -12,6 +12,7 @@ body {
     display: flex;
     justify-content: end;
     align-items: center;
+    margin: 0;
 }
 
 #nav-header li {
